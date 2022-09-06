@@ -2,7 +2,7 @@
 
 # Regular Expression to validate an American Express Credit Card input- `^3[47][0–9]{13}$`
 
-The popularity, and ultimately, the relevance and usefulness, of the Internet, specifically, the World Wide Web, was gretly impacted when we learned how to buy and sell things online.  Credit card validation was a crucial part of this.  Processing the transaction is one thing, and this expression does not go that far, but it did allow programmers to validate the data was input correctly (not typographical errors) and could represent an actual card.  We will look at how the American Express card can be validated.
+The popularity, and ultimately, the relevance and usefulness, of the Internet, specifically, the World Wide Web, was greatly impacted when we learned how to buy and sell things online.  Credit card validation was a crucial part of this.  Processing the transaction is one thing, and this expression does not go that far, but it did allow programmers to validate the data was input correctly (not typographical errors) and could represent an actual card.  We will look at how the American Express card can be validated.
 
 ## Summary
 
